@@ -35,9 +35,9 @@
   ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="180" alt="languages graph" />
 </div>
 
   ---
