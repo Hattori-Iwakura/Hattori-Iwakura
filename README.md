@@ -35,8 +35,10 @@
   ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hattori-Iwakura&theme=tokyonight&hide_border=true&bg_color=0d1117&show_icons=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hattori-Iwakura&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
+  <br/> <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
