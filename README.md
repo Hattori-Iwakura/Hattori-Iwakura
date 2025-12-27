@@ -2,7 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hattori%20Iwakura&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
 
-  ### 🖤 About Me
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI+Engineer;Deep+Learning+Researcher;Cyberpunk+%26+Gothic+Aesthetic;Music+Lover+(Post-Punk%2FDark+Wave)" alt="Typing SVG" />
+</div>
 
   I'm a senior **Software Engineering** student at **HUTECH University**, passionate about **Artificial Intelligence** and **Web Technologies**.
   
