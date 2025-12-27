@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hattori-Iwakura/Hattori-Iwakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hattori%20Iwakura&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
 
-Here are some ideas to get you started:
+  ### 🖤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm a senior **Software Engineering** student at **HUTECH**, passionate about **Artificial Intelligence** and **Web Technologies**.
+  
+  * 🔭 I’m currently working on **Kanji Recognition using CNN**.
+  * 🌱 I’m currently learning **Deep Learning architectures** & **Advanced NestJS**.
+  * 💀 Aesthetic: **Gothic & Cyberpunk**.
+  * 📫 Contact: [nhatnsm1225@gmail.com]
+
+  ---
+
+  ### 🛠️ Tech Stack
+
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </p>
+
+  ---
+
+  ### 📊 GitHub Stats
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Hattori-Iwakura's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </p>
+
+  ---
+
+  ### 🏆 Certifications
+  
+  * **Cisco Networking Basics**
+  * **Cisco JavaScript Essentials 1 & 2**
+
+  ---
+
+  <a href="https://Hattori-Iwakura.github.io">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+</div>
