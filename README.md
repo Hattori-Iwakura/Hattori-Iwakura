@@ -38,6 +38,13 @@
 
   ---
 
+  <h3 align="center">🐍 Contribution Snake</h3>
+  <div align="center">
+    <img src="https://github.com/Hattori-Iwakura/Hattori-Iwakura/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </div>
+
+  ---
+
 <h3 align="center">⚡ Proficiency Levels</h3>
 
   <div align="center">
