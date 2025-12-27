@@ -71,9 +71,28 @@
   ---
 
   <h3 align="center">🏆 Certifications</h3>
-  
-  * **Cisco Networking Basics**
-  * **Cisco JavaScript Essentials 1 & 2**
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://github.com/Hattori-Iwakura/Hattori-Iwakura/blob/main/networking-basics.png?raw=true" width="300" />
+          <br />
+          <b>Cisco Networking Basics</b>
+        </td>
+        <td align="center">
+          <img src="https://github.com/Hattori-Iwakura/Hattori-Iwakura/blob/main/javascript-essentials.png?raw=true" width="300" />
+          <br />
+          <b>Cisco JavaScript Essentials 1</b>
+        </td>
+        <td align="center">
+          <img src="https://github.com/Hattori-Iwakura/Hattori-Iwakura/blob/main/javascript-essentials-2.png?raw=true" width="300" />
+          <br />
+          <b>Cisco JavaScript Essentials 2</b>
+        </td>
+      </tr>
+    </table>
+  </div>
 
   ---
 
