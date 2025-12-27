@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hattori%20Iwakura&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hattori%20Iwakura&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
 
   ### 🖤 About Me
 
-  I'm a senior **Software Engineering** student at **HUTECH**, passionate about **Artificial Intelligence** and **Web Technologies**.
+  I'm a senior **Software Engineering** student at **HUTECH University**, passionate about **Artificial Intelligence** and **Web Technologies**.
   
   * 🔭 I’m currently working on **Kanji Recognition using CNN**.
   * 🌱 I’m currently learning **Deep Learning architectures** & **Advanced NestJS**.
-  * 💀 Aesthetic: **Gothic & Cyberpunk**.
+  * 💀 Aesthetic: **Gothic**.
   * 📫 Contact: [nhatnsm1225@gmail.com]
 
   ---
@@ -18,10 +18,13 @@
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   </p>
 
   ---
