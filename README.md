@@ -35,9 +35,9 @@
   ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=1800" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hattori-Iwakura&theme=tokyonight&hide_border=true&bg_color=0d1117&show_icons=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
   ---
