@@ -9,13 +9,12 @@
   * 🔭 I’m currently working on **Kanji Recognition using CNN**.
   * 🌱 I’m currently learning **Deep Learning architectures** & **Advanced NestJS**.
   * 💀 Aesthetic: **Gothic**.
-  * 📫 Contact: [nhatnsm1225@gmail.com]
+  * 📫 Contact: [nhatnsm1225@gmail.com](mailto:nhatnsm1225@gmail.com)
 
   ---
 
-  ### 🛠️ Tech Stack
-
- <p>
+  <h3 align="center">🛠️ Tech Stack</h3>
+  <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -32,41 +31,34 @@
 
   ---
 
-  ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="180" alt="languages graph" />
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-orpin-ten-96.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3" height="180" alt="languages graph" />
+  </div>
 
   ---
 
- ###⚡ Proficiency Levels</h3>
+  <h3 align="center">⚡ Proficiency Levels</h3>
 
-<div align="center">
-  <img src="https://progress-bar.dev/80/?title=Java&width=500&color=ED8B00&suffix=%" alt="Java Skill" /><br>
-  
-  <img src="https://progress-bar.dev/60/?title=Python&width=500&color=3776AB&suffix=%" alt="Python Skill" /><br>
-  
-  <img src="https://progress-bar.dev/50/?title=Deep%20Learning&width=500&color=EE4C2C&suffix=%" alt="Deep Learning Skill" /><br>
-  
-  <img src="https://progress-bar.dev/65/?title=NestJS&width=500&color=E0234E&suffix=%" alt="NestJS Skill" /><br>
+  <div align="center">
+    <img src="https://progress-bar.dev/80/?title=Java&width=500&color=ED8B00&suffix=%" alt="Java Skill" /><br>
+    <img src="https://progress-bar.dev/60/?title=Python&width=500&color=3776AB&suffix=%" alt="Python Skill" /><br>
+    <img src="https://progress-bar.dev/50/?title=Deep%20Learning&width=500&color=EE4C2C&suffix=%" alt="Deep Learning Skill" /><br>
+    <img src="https://progress-bar.dev/65/?title=NestJS&width=500&color=E0234E&suffix=%" alt="NestJS Skill" /><br>
+    <img src="https://progress-bar.dev/60/?title=Frontend&width=500&color=BC52EE&suffix=%" alt="Frontend Skill" /><br>
+    <img src="https://progress-bar.dev/80/?title=English&width=500&color=2E86AB&suffix=%" alt="English Skill" />
+  </div>
 
-  <img src="https://progress-bar.dev/60/?title=Frontend&width=500&color=BC52EE&suffix=%" alt="Frontend Skill" /><br>
+  ---
 
-  <img src="https://progress-bar.dev/80/?title=English&width=500&color=2E86AB&suffix=%" alt="English Skill" />
-</div>
-
- ---
-
-  ### 🏆 Certifications
+  <h3 align="center">🏆 Certifications</h3>
   
   * **Cisco Networking Basics**
   * **Cisco JavaScript Essentials 1 & 2**
 
   ---
 
+  <br/>
   <a href="https://Hattori-Iwakura.github.io">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
