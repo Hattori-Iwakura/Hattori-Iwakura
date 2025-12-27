@@ -80,4 +80,8 @@
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=System%20Shutdown...&fontSize=20&fontColor=555555&animation=fadeIn" width="100%"/>
+
 </div>
