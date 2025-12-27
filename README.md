@@ -57,13 +57,15 @@
 <h3 align="center">⚡ Proficiency Levels</h3>
 
   <div align="center">
-    <code>
-      English       [▓▓▓▓▓▓▓▓░░] 85%<br/>
-      NestJS        [▓▓▓▓▓▓░░░░] 65%<br/>
-      Python        [▓▓▓▓▓▓░░░░] 60%<br/>
-      Frontend      [▓▓▓▓▓▓░░░░] 60%<br/>
-      Deep Learning [▓▓▓▓▓░░░░░] 50%<br/>
-    </code>
+
+| Skill | Proficiency | Level |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/English-2E86AB?style=flat&logo=google-translate&logoColor=white" /> | **85%** | ▓▓▓▓▓▓▓▓▒░ |
+| <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" /> | **65%** | ▓▓▓▓▓▓▒░░░ |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | **60%** | ▓▓▓▓▓▓░░░░ |
+| <img src="https://img.shields.io/badge/Frontend-BC52EE?style=flat&logo=astro&logoColor=white" /> | **60%** | ▓▓▓▓▓▓░░░░ |
+| <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> | **50%** | ▓▓▓▓▓░░░░░ |
+
   </div>
 
   ---
