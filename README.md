@@ -42,6 +42,24 @@
 
   ---
 
+ ###⚡ Proficiency Levels</h3>
+
+<div align="center">
+  <img src="https://progress-bar.dev/80/?title=Java&width=500&color=ED8B00&suffix=%" alt="Java Skill" /><br>
+  
+  <img src="https://progress-bar.dev/60/?title=Python&width=500&color=3776AB&suffix=%" alt="Python Skill" /><br>
+  
+  <img src="https://progress-bar.dev/50/?title=Deep%20Learning&width=500&color=EE4C2C&suffix=%" alt="Deep Learning Skill" /><br>
+  
+  <img src="https://progress-bar.dev/65/?title=NestJS&width=500&color=E0234E&suffix=%" alt="NestJS Skill" /><br>
+
+  <img src="https://progress-bar.dev/60/?title=Frontend&width=500&color=BC52EE&suffix=%" alt="Frontend Skill" /><br>
+
+  <img src="https://progress-bar.dev/80/?title=English&width=500&color=2E86AB&suffix=%" alt="English Skill" />
+</div>
+
+ ---
+
   ### 🏆 Certifications
   
   * **Cisco Networking Basics**
