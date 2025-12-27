@@ -15,13 +15,16 @@
 
   ### 🛠️ Tech Stack
 
-  <p>
+ <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -31,10 +34,11 @@
 
   ### 📊 GitHub Stats
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Hattori-Iwakura's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hattori-Iwakura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=1800" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hattori-Iwakura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="180" alt="languages graph" />
+</div>
 
   ---
 
